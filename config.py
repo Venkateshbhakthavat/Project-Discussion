@@ -1,2 +1,2 @@
-username = "Venkatesh"
-Password = "Voicerecognition"
+username = "postgres"
+password = "Grkottai7!"
